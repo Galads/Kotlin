@@ -1,0 +1,2 @@
+# Kotlin
+Simple use of collections of kotlins such as - sets, sheets and associative arrays on the example of the game. Unique visitors, unique orders and their processing are implemented. The functions of randomization and reading from the tavern menu file are considered
