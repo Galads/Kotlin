@@ -1,0 +1,2 @@
+# Kotlin
+The player’s movement, exception handling in the try / catch block is implemented, coordinates in the enumerated class are added, they are checked in the data class and the plus operator is overloaded. ASKII map implementation started
